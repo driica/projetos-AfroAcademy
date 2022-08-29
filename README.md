@@ -1,6 +1,6 @@
 # Projetos Afro Academy ✨
 
-Link dos projetos ⏬
+Links dos projetos ⏬
 <br>
 <ul>
     <li><a href="https://portfolio-jo8i.vercel.app/" target="_blank">Portfólio</a></li>
