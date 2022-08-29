@@ -1,4 +1,4 @@
-# Projetos Afro Academy
+# Projetos Afro Academy ✨
 
 Link dos projetos ⏬
 <br>
